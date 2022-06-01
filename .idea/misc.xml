@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.14375" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/drawable-v24/style_btn_black60.xml" value="0.1" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/drawable-v24/style_btn_stroke_black95_press_white.xml" value="0.26256410256410256" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/drawable/button_gamelevels.xml" value="0.1" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/drawable/button_stroke_black95_press_white.xml" value="0.26256410256410256" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/drawable/button_stroke_white_press_blue.xml" value="0.2074074074074074" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.14375" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/drawable/style_btn_black60.xml" value="0.1" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/drawable/style_btn_black95.xml" value="0.1259259259259259" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/drawable/style_btn_stroke_black95.xml" value="0.26666666666666666" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/drawable/style_btn_white.xml" value="0.2074074074074074" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/drawable/style_btn_white_blue_press.xml" value="0.2074074074074074" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/layout/base.xml" value="0.24270833333333333" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/layout/gamelevels.xml" value="0.2" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/layout/qwe.xml" value="0.25416666666666665" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/layout/qwerty.xml" value="0.264" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/layout/qwertyu.xml" value="0.264" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/layout/qwertyu1.xml" value="0.23854166666666668" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/layout/qwertyui.xml" value="0.264" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/layout/qwertyui1.xml" value="0.22708333333333333" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/layout/qwertyuio.xml" value="0.45286686103012636" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/layout/qwertyuiop.xml" value="0.24270833333333333" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/layout/the_end.xml" value="0.24270833333333333" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/layout/universal.xml" value="0.4" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/layout/universal2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/layout/universal3.xml" value="0.24270833333333333" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/layout/universal4.xml" value="0.24270833333333333" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/layout/voice.xml" value="0.25416666666666665" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/layout/voice1.xml" value="0.264" />
+        <entry key="..\:/Python/Python/Roadquiz2/app/src/main/res/layout/zxcvb.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
